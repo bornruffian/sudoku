@@ -1,4 +1,16 @@
 
+#
+# Largely based on:
+#  https://github.com/tfeldmann/Sudoku
+# for image processing
+#
+# Copyright (c) 2013 Thomas Feldmann <feldmann.thomas@gmail.com>,
+#                    Carsten Hussmann
+#
+# Revised by Nick Bedbury
+# Date 15 January 2018
+#
+
 import cv2
 import cv2.cv as cv
 import numpy as np
